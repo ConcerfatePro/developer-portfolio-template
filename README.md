@@ -6,9 +6,13 @@ A **frontend-only** personal portfolio template with a dark-first layout, option
 
 Coming soon.
 
-## Screenshot
+## Video demo
 
-Coming soon.
+Screen recording of the UI in motion (WebM, committed in this repo):
+
+<video src="public/videos/developer-portfolio-template.webm" controls playsinline muted width="100%"></video>
+
+If the player does not load in your viewer, open [`public/videos/developer-portfolio-template.webm`](./public/videos/developer-portfolio-template.webm) locally or via **Raw** on GitHub.
 
 ## Features
 
@@ -39,4 +43,3 @@ npm run dev
 - CMS hookup for projects and resume content
 - OG image and meta tags per deploy
 - i18n toggle for multilingual freelancers
-# developer-portfolio-template
